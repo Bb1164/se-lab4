@@ -1,6 +1,0 @@
-#Mindkettőt megpróbálja kilőni, de csak a másodikban van
-GT4500,0,0,2,0
-TORPEDO,ALL
-TORPEDO,ALL
-TORPEDO,ALL
-TORPEDO,SINGLE
