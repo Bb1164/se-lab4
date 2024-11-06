@@ -1,0 +1,6 @@
+#Mindkettőt megpróbálja kilőni, de csak az elsőben van.
+GT4500,2,0,0,0
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,SINGLE

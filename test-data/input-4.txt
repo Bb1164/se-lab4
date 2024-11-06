@@ -1,0 +1,6 @@
+#Csak az első tárolóban van töltény
+GT45002,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,ALL
